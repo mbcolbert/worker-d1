@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "worker-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "22cfa456-5f2e-4f3d-9655-5cc31f521511",
+      "database_name": "mute-sunset-fa41-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
